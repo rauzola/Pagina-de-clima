@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import AirCard from "../components/airCard/airCard";
 import DegreeCard from "../components/degreeCard/degreeCard";
-import Footer from "../components/footer/footer";
 import SunHour from "../components/sunHour/sunHour";
 import WeekWeather from "../components/weekWeather/weekWeather";
 import weatherIcon from "../assets/weather.svg";
